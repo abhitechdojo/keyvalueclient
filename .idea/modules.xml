@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/akkatestclient.iml" filepath="$PROJECT_DIR$/.idea/modules/akkatestclient.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/akkatestclient-build.iml" filepath="$PROJECT_DIR$/.idea/modules/akkatestclient-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/keyvalueclient.iml" filepath="$PROJECT_DIR$/.idea/modules/keyvalueclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/keyvalueclient-build.iml" filepath="$PROJECT_DIR$/.idea/modules/keyvalueclient-build.iml" />
     </modules>
   </component>
 </project>
